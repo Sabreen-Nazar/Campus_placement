@@ -21,4 +21,5 @@ Status - labels(Placed, Not Placed)
 **Pandas, MatplotLib,Seaborn,Sci_kit_Learn,OneHotEncoder,MinMaxScaler**
 
 **Deployment:: Flask Web FrameWork**
+
 **IDE:Spyder**
