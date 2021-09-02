@@ -19,3 +19,6 @@ gender,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree_p,degree_t,workex,etest_p,specialisa
 Status - labels(Placed, Not Placed)
 
 **Pandas, MatplotLib,Seaborn,Sci_kit_Learn,OneHotEncoder,MinMaxScaler**
+
+**Deployment:: Flask Web FrameWork**
+**IDE:Spyder**
